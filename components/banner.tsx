@@ -1,13 +1,7 @@
 import {
-  IconCalendarMonth,
-  IconHelpOctagon,
-  IconHourglassEmpty,
-  IconMoon2,
-  IconSearch,
-  IconUsersGroup,
+  IconCalendarMonth
 } from "@tabler/icons-react";
 import React from "react";
-import { Button } from "@nextui-org/button";
 import { Image } from "@nextui-org/image";
 
 function Banner() {
