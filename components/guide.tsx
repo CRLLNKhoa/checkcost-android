@@ -12,7 +12,7 @@ function Guide() {
       </h1>
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-4 px-4">
             <Link href={"/guide/stats"} className="flex flex-col gap-2 items-center cursor-pointer">
-                <Image isZoomed radius="sm" src="/Stats.jpg" alt="Stats" className="w-full h-[160px] object-cover scale-105"  />
+                <Image isZoomed radius="sm" src="/stats.jpg" alt="Stats" className="w-full h-[160px] object-cover scale-105"  />
                 <h2 className="text-center">Stats</h2>
             </Link>
             <Link href={"/guide/spells"} className="flex flex-col gap-2 items-center cursor-pointer">
